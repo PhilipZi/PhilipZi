@@ -1,9 +1,9 @@
 # Hi there 👋
 ## Welcome to my profile
 
-My name is Philip i am 32 years old and i am an upcoming web developer. Currently i am working on this Readme.md.
+*My name is Philip i am 32 years old and i am an upcoming web developer. Currently i am working on this Readme.md.
 
-I got some hobbies which are these: 
+*I got some hobbies which are these: 
 
 | **Summer** | | **Winter** | 
 | ------ | --- | ------ |
@@ -14,7 +14,7 @@ I got some hobbies which are these:
 | *Climbing* |  | *Calisthenics* |
 | *Calisthenics* |  | ~Skateboarding~ |  
 
-I used to be quite active on [Instagram] <-- click here 
+*I used to be quite active on [Instagram] <-- click here 
 
 
 ```
