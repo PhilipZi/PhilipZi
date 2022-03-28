@@ -1,7 +1,7 @@
 # Hi there 👋
 ## Welcome to my profile
 
-My name is Philip i am 32 Years old and i am an upcoming web developer. Currently i am working on this Readme.md.
+My name is Philip i am 32 years old and i am an upcoming web developer. Currently i am working on this Readme.md.
 
 I got some hobbies which are these: 
 
