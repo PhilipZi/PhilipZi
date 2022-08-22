@@ -21,15 +21,6 @@
 dont take that serious i am just testing around. Will be better one day 😎
 ```
 
-```
-here a random picture of me climbing 😂
-
-```
-
-![IMG_9219](https://user-images.githubusercontent.com/102238180/160466254-933ffe6c-e31f-4c42-adb1-e7596e79d860.jpeg)
-
-
-Thats it so far with my skills. 🤷‍♂️
 
 
 [Instagram]: https://www.instagram.com/zimmermann.philip/
