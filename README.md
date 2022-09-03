@@ -1,33 +1,31 @@
-# Hi there 👋
-## Welcome to my profile
+Hi 👋 My name is Petros Tsimvris
+================================
 
-* My name is Philip i am 32 years old and i am an upcoming web developer. Currently i am working on this Readme.md.
+Frontend Developer
+------------------
 
-
-
-* I used to be quite active on [Instagram] <-- click here 
-
-
-```
-dont take that serious i am just testing around. Will be better one day 😎
-```
+* 🌍  At the moment I'm based in Germany.
+* 🖥️  See my portfolio at [My Page](https://www.linkedin.com/in/philip-zimmermann-0a347b239/)
+* ✉️  You can contact me at [tsimvris@gmail.com](mailto:philip.zimmermann@freenet.de)
+* 🤝  I'm open to collaborating on interesting Projects
 
 
 
-[Instagram]: https://www.instagram.com/zimmermann.philip/
+# 💻 Tech Stack:
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white) 
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) 
 
 
-<!--
-**PhilipZi/PhilipZi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PhilipZi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PhilipZi&theme=dark&hide_border=false)<br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=PhilipZi&icon=0&color=3)](https://visitcount.itsvg.in)
