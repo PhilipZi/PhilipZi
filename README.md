@@ -1,7 +1,7 @@
-Hi 👋 My name is Petros Tsimvris
+Hi 👋 My name is Philip Zimmermann
 ================================
 
-Frontend Developer
+Junior Frontend Developer
 ------------------
 
 * 🌍  At the moment I'm based in Germany.
