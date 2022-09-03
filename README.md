@@ -5,7 +5,7 @@ Frontend Developer
 ------------------
 
 * 🌍  At the moment I'm based in Germany.
-* 🖥️  See my portfolio at [My Page](https://www.linkedin.com/in/philip-zimmermann-0a347b239/)
+* 🖥️  See more about my bio at [My Page](https://www.linkedin.com/in/philip-zimmermann-0a347b239/)
 * ✉️  You can contact me at [philip.zimmermann@freenet.de](mailto:philip.zimmermann@freenet.de)
 * 🤝  I'm open to collaborating on interesting Projects
 
