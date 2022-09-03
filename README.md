@@ -4,8 +4,8 @@ Hi 👋 My name is Philip Zimmermann
 Junior Frontend Developer
 ------------------
 
-* 🌍  At the moment I'm based in Germany.
-* 🖥️  See more about my bio at [My Page](https://www.linkedin.com/in/philip-zimmermann-0a347b239/)
+* 🌍  At the moment based in Germany.
+* 🖥️  See more about me at [LinkedIn](https://www.linkedin.com/in/philip-zimmermann-0a347b239/) or [Instagram](https://www.instagram.com/zimmermann.philip/)
 * ✉️  You can contact me at [philip.zimmermann@freenet.de](mailto:philip.zimmermann@freenet.de)
 * 🤝  I'm open to collaborating on interesting Projects
 
