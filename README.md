@@ -1,7 +1,7 @@
 Hi 👋 My name is Philip Zimmermann
 ================================
 
-Junior Frontend Developer
+Junior Web Developer
 ------------------
 
 * 🌍  At the moment based in Spain/Germany.
