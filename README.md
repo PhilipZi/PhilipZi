@@ -1,7 +1,7 @@
 Hi 👋 My name is Philip Zimmermann
 ================================
 
-Junior Web Developer
+Web Developer
 ------------------
 
 * 🌍  At the moment based in Spain/Germany.
