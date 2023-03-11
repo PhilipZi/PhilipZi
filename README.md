@@ -1,4 +1,4 @@
-Hi 👋 My name is Philip Zimmermann
+Hi 👋 My name is Philip 
 ================================
 
 Web Developer
