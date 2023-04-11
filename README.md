@@ -18,10 +18,10 @@ Web Developer
 
 # 📊 GitHub Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhilipZi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-beta-wine-79.vercel.app/api?username=PhilipZi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PhilipZi&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipZi&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats-beta-wine-79.vercel.app/api/top-langs/?username=PhilipZi&theme=tokyonight&hide_border=false)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PhilipZi&theme=tokyonight&hide_border=false&no-bg=true&margin-w=4)
