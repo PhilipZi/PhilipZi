@@ -5,7 +5,7 @@ Web Developer
 ------------------
 
 * 🌍  At the moment based in Spain/Germany.
-* 🏞️  Check my [Homepage](https://philip-zimmermann-website.vercel.app/#contact).
+* 🏞️  Check my [Homepage](https://philip-zimmermann.de).
 * 🖥️  See more about me at [LinkedIn](https://www.linkedin.com/in/philip-zimmermann-0a347b239/) or [Instagram](https://www.instagram.com/zimmermann.philip/).
 * ✉️  You can contact me at [philip.zimmermann@freenet.de](mailto:philip.zimmermann@freenet.de).
 * 🤝  I'm open to collaborate in interesting Projects and all other kind of cool stuff to explore and learn more and more.
