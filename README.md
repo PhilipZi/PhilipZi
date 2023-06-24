@@ -1,8 +1,8 @@
 Hi 👋 My name is Philip 
 ================================
 
-Web Developer
-------------------
+Web Developer / Frontend Web Developer 
+--------------------------------------
 
 * 🌍  At the moment based in Germany.
 * 🏞️  Check my [Homepage](https://philip-zimmermann.de).
