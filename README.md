@@ -5,7 +5,6 @@ Web Developer / Frontend Web Developer
 --------------------------------------
 
 * 🌍  At the moment based in Germany.
-* 🏞️  Check my [Homepage](https://philip-zimmermann.de).
 * 🖥️  See more about me at [LinkedIn](https://www.linkedin.com/in/philip-zimmermann-0a347b239/) or [Instagram](https://www.instagram.com/zimmermann.philip/).
 
 
