@@ -1,7 +1,7 @@
 Hi 👋 My name is Philip 
 ================================
 
-Web Developer / Frontend Web Developer 
+Web Developer / Frontend Web Developer / Game Developer (junior)
 --------------------------------------
 
 * 🌍  At the moment based in Germany.
